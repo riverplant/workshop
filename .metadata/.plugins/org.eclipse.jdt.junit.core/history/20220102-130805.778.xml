@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><testrun name="FirstTest.hello" project="workshop-api" tests="1" started="1" failures="0" errors="0" ignored="0">
-  <testsuite name="com.nitere.FirstTest" time="0.35" displayname="FirstTest" uniqueid="[engine:junit-jupiter]/[class:com.nitere.FirstTest]">
-    <testcase name="hello" classname="com.nitere.FirstTest" time="0.35" displayname="hello()" uniqueid="[engine:junit-jupiter]/[class:com.nitere.FirstTest]/[method:hello()]"/>
-  </testsuite>
-</testrun>
