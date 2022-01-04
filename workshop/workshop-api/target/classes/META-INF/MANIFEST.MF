@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: riverplant
+Build-Jdk: 11.0.13
+Implementation-Title: workshop-api
+Implementation-Version: 1.0.0-SNAPSHOT
+Implementation-Vendor-Id: com.nitere
+Implementation-URL: https://spring.io/projects/spring-boot/workshop/work
+ shop-api
+Created-By: Maven Integration for Eclipse
+

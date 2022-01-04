@@ -1,0 +1,12 @@
+/**
+ * 
+ */
+package com.nitere;
+
+/**
+ * @author riverplant
+ *
+ */
+public class FirstTest extends BaseTest {
+
+}

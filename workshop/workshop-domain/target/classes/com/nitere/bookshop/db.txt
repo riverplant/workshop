@@ -1,0 +1,5 @@
+Author (many ---> many)  Book  
+
+Book (many ---> one) Category
+
+
